@@ -1,8 +1,2 @@
-# devenv
-Developement envirement built with docker
-
-## usage
-
-```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/tarikkudesu/My-configs/refs/heads/main/web_dev_env.sh)"
-```
+# pong_websocket_react_hook
+As a preperation for the transcendence project, this repositry will hold the an abstraction of the client side of the connection as a react hook.
